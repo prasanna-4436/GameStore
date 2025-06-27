@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TechM_project", "TechM_project", "{1D287D59-1516-DEE7-86E7-F34F259C6D67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStoreAPI", "TechM_project\GameStoreAPI\GameStoreAPI.csproj", "{DA2C535A-3E26-C1D9-0F9F-609747E6BC5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2C535A-3E26-C1D9-0F9F-609747E6BC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2C535A-3E26-C1D9-0F9F-609747E6BC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2C535A-3E26-C1D9-0F9F-609747E6BC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2C535A-3E26-C1D9-0F9F-609747E6BC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DA2C535A-3E26-C1D9-0F9F-609747E6BC5A} = {1D287D59-1516-DEE7-86E7-F34F259C6D67}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F2C6FA7-08AD-4B0E-A7C0-3A6AA8A76515}
+	EndGlobalSection
+EndGlobal
